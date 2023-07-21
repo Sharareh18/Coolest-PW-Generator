@@ -18,6 +18,9 @@ There is no installation required for this project. Please use the link in the u
 
 
 https://sharareh18.github.io/Coolest-PW-Generator/
+<img width="1053" alt="Screenshot 2023-07-20 at 10 05 49 PM" src="https://github.com/Sharareh18/Coolest-PW-Generator/assets/137013883/80b0a0c3-f649-4314-bd42-e50dd82c3c3b">
+<img width="1053" alt="Screenshot 2023-07-20 at 10 06 10 PM" src="https://github.com/Sharareh18/Coolest-PW-Generator/assets/137013883/db01bc95-dcc2-406b-81ed-2bedaf81c68d">
+<img width="1053" alt="Screenshot 2023-07-20 at 10 06 28 PM" src="https://github.com/Sharareh18/Coolest-PW-Generator/assets/137013883/58d3c17e-1355-492a-9fbd-e282a68f1a63">
 
 
 ## Credits
